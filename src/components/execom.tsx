@@ -28,7 +28,7 @@ const members = [
     linkedin: "#"
   },
   {
-    name: "Gnanitha",
+    name: "Gnanitha", 
     role: "Secretary",
     img: "/e5.jpeg", // Add gnanitha.jpg to public folder
     email: "gnanitha@gmail.com",
