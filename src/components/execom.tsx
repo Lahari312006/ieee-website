@@ -37,7 +37,7 @@ const members = [
   {
     name: "Hema Chandrika",
     role: "Treasurer",
-    img: "/", // Add hema-chandrika.jpg to public folder
+    img: "/e6,jpeg", // Add hema-chandrika.jpg to public folder
     email: "hemachandrika@gmail.com",
     linkedin: "#"
   },
